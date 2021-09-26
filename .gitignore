@@ -154,3 +154,8 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/.vs/KadokawaBinParser/v17/Preview
+/.vs/KadokawaBinParser/v16
+/.vs/misakaBinParser/v17/Preview
+/.vs/misakaBinParser/v16
+/.vs/slnx.sqlite
